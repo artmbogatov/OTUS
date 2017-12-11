@@ -9,3 +9,4 @@ BOOST_AUTO_TEST_CASE(test_valid_version)
   BOOST_CHECK(version() > 0);
 }
 
+}
